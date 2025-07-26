@@ -5,16 +5,16 @@ A comprehensive backtesting platform for trading strategies built with FastAPI b
 ## UI Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](frontend\public\assets\snap1.png)
+![Dashboard Overview](frontend/public/assets/snap1.png)
 
 ### Strategy Builder
-![Strategy Builder](frontend\public\assets\snap3.png)
+![Strategy Builder](frontend/public/assets/snap3.png)
 
 ### Backtesting Results
-![Backtesting Results](frontend\public\assets\snap2.png)
+![Backtesting Results](frontend/public/assets/snap2.png)
 
 ### Risk Metrics
-![Risk Metrics](frontend\public\assets\snap4.png)
+![Risk Metrics](frontend/public/assets/snap4.png)
 
 
 ## Features
