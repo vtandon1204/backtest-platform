@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "symbol": "BTCUSDT",
+    "entry_time": "2024-05-01T10:00:00Z",
+    "exit_time": "2024-05-01T15:00:00Z",
+    "pnl_pct": 2.5,
+    "side": "buy",
+    "quantity": 0.01,
+    "price": 50000,
+    "fee": 2,
+    "entry_index": 101,
+    "exit_index": 112,
+    "duration": 5
+  },
+  {
+    "id": "2",
+    "symbol": "BTCUSDT",
+    "entry_time": "2024-05-03T13:00:00Z",
+    "exit_time": "2024-05-03T16:00:00Z",
+    "pnl_pct": -1.8,
+    "side": "sell",
+    "quantity": 0.01,
+    "price": 51000,
+    "fee": 2,
+    "entry_index": 131,
+    "exit_index": 136,
+    "duration": 3
+  }
+]

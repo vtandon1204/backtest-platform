@@ -1,0 +1,50 @@
+{
+  "momentum": {
+    "entry": {
+      "left": "SMA",
+      "op": ">",
+      "right": "EMA"
+    },
+    "exit": {
+      "left": "SMA",
+      "op": "<",
+      "right": "EMA"
+    }
+  },
+  "mean_reversion": {
+    "entry": {
+      "left": "RSI",
+      "op": "<",
+      "right": 30
+    },
+    "exit": {
+      "left": "RSI",
+      "op": ">",
+      "right": 50
+    }
+  },
+  "breakout": {
+    "entry": {
+      "left": "Price",
+      "op": ">",
+      "right": "UpperBand"
+    },
+    "exit": {
+      "left": "Price",
+      "op": "<",
+      "right": "LowerBand"
+    }
+  },
+  "scalping": {
+    "entry": {
+      "left": "MACD",
+      "op": ">",
+      "right": "Signal"
+    },
+    "exit": {
+      "left": "MACD",
+      "op": "<",
+      "right": "Signal"
+    }
+  }
+}
